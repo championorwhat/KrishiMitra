@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "How do I improve soil fertility?",
+      "answer": "You can improve soil fertility by adding organic compost, practicing crop rotation, using green manure, and avoiding excessive chemical fertilizers."
+    },
+    {
+      "question": "What is the best way to control pests without chemicals?",
+      "answer": "Use natural predators like ladybugs, neem oil sprays, crop rotation, and maintaining field hygiene to control pests organically."
+    },
+    {
+      "question": "When should I plant seeds for the monsoon season?",
+      "answer": "Plant seeds just before the monsoon starts, usually in late June to early July, to ensure adequate water supply."
+    },
+    {
+      "question": "How do I know if my crop is ready to harvest?",
+      "answer": "Check crop maturity by observing grain hardness, color change in leaves, and days since flowering specific to your crop."
+    },
+    {
+      "question": "How much water should I irrigate my crops during summer?",
+      "answer": "Irrigate deeply but less frequently, usually once every 4-5 days, adjusting based on crop type and soil moisture."
+    },
+    {
+      "question": "What are the signs of nutrient deficiency in plants?",
+      "answer": "Yellowing leaves indicate nitrogen deficiency, purple leaves suggest phosphorus deficiency, and browning edges show potassium lack."
+    },
+    {
+      "question": "How can I protect my crops from unexpected weather changes?",
+      "answer": "Use windbreaks, cover crops, proper drainage, and timely planting to minimize damage from weather extremes."
+    },
+    {
+      "question": "Which fertilizers should I use for wheat crops?",
+      "answer": "Use nitrogen-rich fertilizer like urea early, followed by phosphate and potash fertilizers based on soil testing recommendations."
+    },
+    {
+      "question": "How do I prevent soil erosion on my farm?",
+      "answer": "Prevent erosion by planting cover crops, building terraces on slopes, and avoiding over-tillage."
+    },
+    {
+      "question": "What is the best fertilizer for rice fields?",
+      "answer": "Rice requires nitrogen, phosphorus, and potassium fertilizers applied in split doses during transplanting and tillering stages."
+    },
+    {
+      "question": "How can I improve seed germination rates?",
+      "answer": "Ensure seeds are of good quality, treat them with fungicides if needed, and plant at the correct depth with adequate moisture."
+    },
+    {
+      "question": "What crops are suitable for dryland farming?",
+      "answer": "Drought-resistant crops like millet, sorghum, chickpeas, and pigeon peas are suitable for dryland farming."
+    },
+    {
+      "question": "How do I control weeds effectively?",
+      "answer": "Use mulching, timely manual weeding, and selective herbicides to manage weeds without harming crops."
+    },
+    {
+      "question": "What is drip irrigation and its benefits?",
+      "answer": "Drip irrigation delivers water directly to roots through a network of tubes; it conserves water and reduces weed growth."
+    },
+    {
+      "question": "How do I test my soil’s pH at home?",
+      "answer": "Use a soil pH testing kit available at agricultural stores or mix soil with water and use pH test strips."
+    },
+    {
+      "question": "What diseases commonly affect tomato plants?",
+      "answer": "Common diseases include blight, fusarium wilt, and powdery mildew; crop rotation and fungicides help control these."
+    },
+    {
+      "question": "How can I enrich my soil naturally?",
+      "answer": "Add compost, manure, bone meal, and use green manure crops to naturally improve soil nutrients."
+    },
+    {
+      "question": "When is the best time to apply fertilizer for maize?",
+      "answer": "Apply most fertilizer nitrogen at planting and the rest at knee height or during tasseling stages."
+    },
+    {
+      "question": "How do I manage waterlogging in my fields?",
+      "answer": "Improve drainage through ditches and raised beds; avoid over-irrigation and consider planting water-tolerant crops."
+    },
+    {
+      "question": "What are cover crops and why are they important?",
+      "answer": "Cover crops protect soil from erosion, improve fertility, and manage pests in off-season periods."
+    },
+    {
+      "question": "What are organic fertilizers and how are they beneficial?",
+      "answer": "Organic fertilizers come from natural sources like compost and manure; they improve soil structure and provide slow nutrient release."
+    },
+    {
+      "question": "How can I identify and manage aphid infestations?",
+      "answer": "Look for clusters of small insects on young shoots; manage with neem oil or introduce ladybugs as natural predators."
+    },
+    {
+      "question": "What are the benefits of crop rotation?",
+      "answer": "Crop rotation prevents soil nutrient depletion, reduces pest build-up, and improves crop yields."
+    },
+    {
+      "question": "How do I store harvested grains to prevent pest damage?",
+      "answer": "Store grains in airtight containers in a cool, dry place; use natural repellents like neem leaves to deter pests."
+    },
+    {
+      "question": "What is integrated pest management (IPM)?",
+      "answer": "IPM combines biological, cultural, mechanical, and chemical methods to control pests sustainably."
+    },
+    {
+      "question": "How do I prepare my soil for planting?",
+      "answer": "Clear debris, till the soil to aerate, add compost or manure, and test for nutrient deficiencies."
+    }
+  ]
+}
